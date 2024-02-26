@@ -32,6 +32,7 @@
 
 ##
 <div>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/bárbaramagalhães-283923196 alt="LinkedIn"/></a> 
+  <a href="https://www.linkedin.com/in/bárbaramagalhães-283923196" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> 
 </div>
