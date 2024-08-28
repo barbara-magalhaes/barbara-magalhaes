@@ -5,7 +5,7 @@
 
 - 🤔 Explorando Infra às Code.
 - 💼 Trabalhando como {DevOps Jr}.
-- 🌱 Aprendendo mais sobre {Python e Cloud ☁️}
+- 🌱 Aprendendo mais sobre {Cloud ☁️ e Python}
 
 ##
 
